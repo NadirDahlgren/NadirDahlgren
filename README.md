@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 👋
 - 🌱 I’m currently learning Fullstack Developer .NET
 <!--
 **NadirDahlgren/NadirDahlgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
